@@ -27,4 +27,5 @@ Analyze a Kaggle retail sales dataset using SQL to uncover trends, top-performin
 ## Power BI Dashboard
 
 This Power BI dashboard visualizes retail sales performance, category trends, and overall order metrics using the same Kaggle dataset analyzed in SQL.
-
+### Dashboard Overview
+![Dashboard Overview]
