@@ -23,3 +23,8 @@ Analyze a Kaggle retail sales dataset using SQL to uncover trends, top-performin
 - Source: Kaggle (public dataset)
 - Format: CSV
 - Description: Retail sales transaction data used to analyze sales and profitability across product categories.
+
+## Power BI Dashboard
+
+This Power BI dashboard visualizes retail sales performance, category trends, and overall order metrics using the same Kaggle dataset analyzed in SQL.
+
