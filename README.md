@@ -30,4 +30,4 @@ This Power BI dashboard visualizes retail sales performance, category trends, an
 
 ### Dashboard Overview
 
-![Dashboard Overview](images/Retail Sales PowerB Screenshot.png)
+![Dashboard Overview](images/[Retail Sales PowerB Screenshot.png](https://github.com/angelatsamago20-cloud/retail-sales-analysis/blob/main/Images/Retail%20Sales%20PowerBI%20Screenshot.png))
